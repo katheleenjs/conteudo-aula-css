@@ -1,0 +1,7 @@
+body {
+    background-image: url(/Aula1/img/praia.jpg);
+    background-repeat: no-repeat;
+    color: rgb(245, 245, 245);
+    background-size: cover;
+    background-attachment: fixed;
+}
