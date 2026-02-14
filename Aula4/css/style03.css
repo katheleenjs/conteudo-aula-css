@@ -1,0 +1,9 @@
+body {
+  background-color: darkgrey;
+}
+
+.ex1 li{
+  list-style-image: url('../img/happy.svg');
+  list-style-type: disc;
+  
+}
