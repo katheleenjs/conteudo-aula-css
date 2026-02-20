@@ -1,0 +1,93 @@
+body {
+    background-color: rgb(95, 76, 89);
+    color: whitesmoke;
+}
+
+/* Exemplo de justify-content: center */
+.ex1 {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    background-color: rgb(179, 44, 184);
+}
+
+.ex1 div {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    background-color: rgb(140, 177, 247);
+}
+
+/* Exemplo de justify-content: flex-start */
+.ex2 {
+    display: flex;
+    justify-content: flex-start;
+    gap: 30px;
+    background-color: rgb(179, 44, 184);
+}
+
+.ex2 div {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    background-color: rgb(140, 177, 247);
+}
+
+/* Exemplo de justify-content: flex-end */
+.ex3 {
+    display: flex;
+    justify-content: flex-end;
+    gap: 30px;
+    background-color: rgb(179, 44, 184);
+}
+
+.ex3 div {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    background-color: rgb(140, 177, 247);
+}
+
+/* Exemplo de justify-content: space-around */
+.ex4 {
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+    background-color: rgb(179, 44, 184);
+}
+
+.ex4 div {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    background-color: rgb(140, 177, 247);
+}
+
+/* Exemplo de justidy-content: space-between */
+.ex5 {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    background-color: rgb(179, 44, 184);
+}
+
+.ex5 div {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    background-color: rgb(140, 177, 247);
+}
+/* Exemplo de justidy-content: space-envely */
+.ex6 {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 30px;
+    background-color: rgb(179, 44, 184);
+}
+
+.ex6 div {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    background-color: rgb(140, 177, 247);
+}
